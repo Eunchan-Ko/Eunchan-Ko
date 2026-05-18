@@ -107,22 +107,22 @@
 > - **Learning Point:** LangChain을 활용한 에이전트 설계, 데이터 파이프라인 최적화, 프롬프트 엔지니어링
 
 ### 🏁 Completed Projects
-#### 🤖 Duct Autonomous Exploration Robot
-> **ROS2 기반 덕트 자율 탐색 로봇 개발**
+
+> **[🤖ROS2 기반 덕트 자율 탐색 로봇 개발 (Duct Autonomous Exploration Robot)](https://github.com/Eunchan-Ko/happyCircuit)**
 > - **Node Communication:** ROS2(Foxy/Humble)를 이용한 센서 데이터 및 제어 노드 간 통신 설계
 > - **Web Interface:** JSON 기반 WebSocket 통신 구현 및 실시간 로봇 상태 모니터링 대시보드 제작
 > - **Navigation:** 덕트 환경 최적화 자율 탐색 알고리즘 설계 및 센서 퓨전 구현
 > - **Impact:** 하드웨어 제어 데이터의 웹 시각화 및 원격 관제 아키텍처 완성
 
+> **[🤖SSAFY AI 챌린지 (Kaggle VQA model development)](https://github.com/whtjddlr/Recycle_VQA_Challenge)**
+> - **Prompt Engineering:** 입력 질문에 맞춘 효과적인 프롬프트 설계 및 최적화
+> - **Model Training:** PyTorch를 활용한 VQA 모델 학습 및 성능 개선
+> - **Ensemble Methods:** 다양한 모델 앙상블을 통한 예측 정확도 향상
+> - **Outcome:** 대회에서 전국 1위 달성, 모델의 실용적 적용 가능성 검증 
+
 ---
 
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eunchan-Ko&show_icons=true&theme=calm&title_color=8892BF&icon_color=E34F26&text_color=555555&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunchan-Ko&layout=compact&theme=calm&title_color=8892BF&hide_border=true" />
-</div>
 
 ## Algorithm Solving
 <p align="center">
