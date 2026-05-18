@@ -141,7 +141,6 @@
 
 ## Archive
 
-- TIL: [01. my_til/TIL/README.md](../TIL/README.md)
 - Portfolio repository: this profile README is the starting point.
 
 ---
